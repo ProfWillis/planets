@@ -1,4 +1,7 @@
 Cold and dry, but everything is my favorite color
 The two moons may be a problem
+<<<<<<< HEAD
 But the lack of humidity is a plus
 Is this plan ill-considered?
+=======
+>>>>>>> parent of 18830c3... discussed humidity
