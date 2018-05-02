@@ -2,3 +2,4 @@ Age: 19
 Gender: Male
 Status: Unknown
 Medical History: Several STDs
+Last Known Whereabouts: Denny's
