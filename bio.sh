@@ -1,9 +1,9 @@
-Age: 19
- Gender: Male
- Status: Unknown
- Medical History: Several STDs
- Last Known Whereabouts: Denny's
-Number 0 on FBI's top 10 most wanted list
+'Age: 19'
+'Gender: Male'
+'Status: Unknown'
+'Medical History: Several STDs'
+"Last Known Whereabouts: Denny's"
+"Number 0 on FBI's top 10 most wanted list"
 echo 'Who do you think this person is?'
 read $a
 echo 'You said $a'
